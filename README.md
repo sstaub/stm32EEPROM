@@ -21,7 +21,7 @@ Now, you can write and read data (uint8_t) to the internal EEPROM:
 
 ```
 readEEPROMByte(5, 127); // write 127 to memory 5 of the EEPROM
-uint8_t data = readEEPROMByte(5); // reads the data of memory 5
+uint8_t data = readEEPROMByte(5); // read the data of memory 5
 ```
 
 ## IMPORTANT
