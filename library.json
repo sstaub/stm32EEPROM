@@ -1,0 +1,13 @@
+{
+  "name": "stm32EEPROM",
+  "keywords": "EEPROM",
+  "description": "A small mbed library for r/w of the internal EEPROM of the STM32L0xx and STM32L1xx microcontrollers.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sstaub/stm32EEPROM"
+  },
+  "version": "1.0.0",
+  "frameworks": "mbed",
+  "platforms": "ststm32"
+}
